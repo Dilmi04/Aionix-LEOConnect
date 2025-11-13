@@ -11,11 +11,10 @@ It enables Leos to connect, collaborate, and celebrate their service through AI-
 | Category | Details |
 |-----------|----------|
 | **Competition** | AlgoArena 2025 – Phase 2 |
-| **Team Name** | [Your Team Name] |
+| **Team Name** | Aionix |
 | **University** | University of Sri Jayewardenepura |
 | **Faculty** | Faculty of Computing |
-| **Team Members** | Dilmi Sandunika • [Teammate Name] |
-| **Mentor / Advisor** | [Optional] |
+| **Team Members** | Dilmi Sandunika • Devini Thathsarani |
 
 ---
 
