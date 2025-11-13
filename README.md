@@ -70,8 +70,3 @@ It enables Leos to connect, collaborate, and celebrate their service through AI-
 
 ---
 
-## 🧮 AI Recommendation Logic (simplified)
-
-Each event is scored based on:
-```text
-score = (tagMatches * 3) + (sameDistrict ? 2 : 0) + (recentEvent ? 1 : 0)
